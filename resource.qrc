@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/system-switch-user.png</file>
+        <file>icons/folder-development.png</file>
+        <file>icons/folder-open.png</file>
+        <file>icons/folder-remote.png</file>
+        <file>icons/document-open-remote.png</file>
+        <file>icons/go-up.png</file>
+        <file>icons/call-start.png</file>
+        <file>icons/media-playlist-shuffle.png</file>
+        <file>icons/video-display.png</file>
+        <file>icons/dialog-ok-apply.png</file>
+        <file>icons/edit-delete.png</file>
+        <file>icons/list-remove-blue.png</file>
+        <file>icons/download-later.png</file>
+        <file>icons/preferences-desktop-notification.png</file>
+        <file>icons/task-attempt.png</file>
+        <file>icons/dialog-cancel.png</file>
+        <file>icons/download.png</file>
+        <file>icons/preferences-desktop-notification-green.png</file>
+        <file>icons/preferences-desktop-notification-red.png</file>
+        <file>icons/preferences-desktop-notification-yellow.png</file>
+        <file>icons/go-next-brown.png</file>
+        <file>icons/go-previous-brown.png</file>
+        <file>icons/emblem-symbolic-link.png</file>
+        <file>icons/address-book-new.png</file>
+        <file>icons/document-preview.png</file>
+        <file>icons/preferences-desktop-notification-red-small.png</file>
+        <file>icons/preferences-desktop-notification-green-small.png</file>
+        <file>icons/preferences-desktop-notification-small.png</file>
+        <file>icons/dialog-error.png</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file>json/endpoints.json</file>
+        <file>json/token.json</file>
+        <file>json/delete.json</file>
+        <file>json/get.json</file>
+        <file>json/getall.json</file>
+        <file>json/post.json</file>
+        <file>json/put.json</file>
+        <file>json/postall.json</file>
+    </qresource>
+    <qresource prefix="/html">
+        <file>html/swagger.html</file>
+    </qresource>
+</RCC>
